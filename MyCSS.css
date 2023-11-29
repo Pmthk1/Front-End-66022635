@@ -36,7 +36,9 @@ body {
     color: white;
     margin-top: 0px;
     text-align: left;
-    padding-left: 0px;
+    padding-left: 10px;
+    border: 0px solid white;
+    box-sizing: border-box;
 }
 
 #footer-box {
